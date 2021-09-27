@@ -1,4 +1,4 @@
-![Picture of me](Professional_Profile.jpg)
+![Picture of me](Professional_Profile.JPG)
 ###### Welcome to my User Page
 ### Introduction
 **My name is Duc Minh Vu**
@@ -19,7 +19,7 @@ This should answer any questions you have: [Google](http://google.com/)
 - red
 - blue
 - green
-- 
+
 1. me
 2. myself
 3. i

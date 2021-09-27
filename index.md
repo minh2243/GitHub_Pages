@@ -1,4 +1,4 @@
-![Picture of me](https://imgur.com/gallery/cjO7gNI)
+![I thought this was funny](https://imgur.com/gallery/cjO7gNI)
 ###### Welcome to my User Page
 ### Introduction
 **My name is Duc Minh Vu**
